@@ -1,4 +1,3 @@
-
 import glob
 
 # diretório onde os arquivos serão pesquisados
