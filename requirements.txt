@@ -2,3 +2,4 @@ pillow
 schedule
 requests
 bs4
+PyPDF2
