@@ -3,3 +3,4 @@ schedule
 requests
 bs4
 PyPDF2
+psutil
