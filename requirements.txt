@@ -6,3 +6,4 @@ PyPDF2
 psutil
 cryptography
 pytube
+googlesearch-python
