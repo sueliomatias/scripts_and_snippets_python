@@ -7,3 +7,4 @@ psutil
 cryptography
 pytube
 googlesearch-python
+gtts
