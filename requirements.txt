@@ -8,3 +8,4 @@ cryptography
 pytube
 googlesearch-python
 gtts
+textblob
