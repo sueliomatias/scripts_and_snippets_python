@@ -9,3 +9,4 @@ pytube
 googlesearch-python
 gtts
 textblob
+selenium
