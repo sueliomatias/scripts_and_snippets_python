@@ -10,3 +10,5 @@ googlesearch-python
 gtts
 textblob
 selenium
+qrcode
+pyzbar
