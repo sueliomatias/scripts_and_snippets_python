@@ -12,3 +12,4 @@ textblob
 selenium
 qrcode
 pyzbar
+semanticscholar
