@@ -13,3 +13,5 @@ selenium
 qrcode
 pyzbar
 semanticscholar
+pandas
+ydata-profiling
