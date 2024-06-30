@@ -16,3 +16,5 @@ semanticscholar
 pandas
 ydata-profiling
 flask
+google-api-python-client
+SpeechRecognition
